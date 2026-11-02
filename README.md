@@ -25,7 +25,6 @@ loading and preprocessing data using **Pandas**, and visualizing results using *
 Predict **Wine Quality** using Linear Regression.
 
 You are given a dataset **WineQT.csv** that contains information about the physicochemical properties and chemical composition of various wine samples.
-
 Your goal is to build a Linear Regression model from scratch that predicts the Wine Quality based on its alcohol content.
 
 ---
